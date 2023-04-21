@@ -6,4 +6,4 @@ A clean and nice web portfolio for designer or developer. That includes almost e
 Don't forget to join the channel for more videos like this.
 [EJB](https://www.youtube.com/)
 
-![preview img](/preview.pn)
+![preview img](/preview.png)
